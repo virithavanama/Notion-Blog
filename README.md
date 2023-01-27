@@ -1,4 +1,4 @@
- <meta name="google-site-verification" content="u_ZMEtHGKJUXNSzwbf5rco4pRp1yVdr02QrosHkU6Eo" />
+<meta name="google-site-verification" content="u_ZMEtHGKJUXNSzwbf5rco4pRp1yVdr02QrosHkU6Eo" />
  
 # Notion Blog
  ## How to Add Advanced filters in Notion
