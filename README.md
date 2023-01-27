@@ -1,6 +1,9 @@
+
 # Notion Blog
  ## How to Add Advanced filters in Notion
-   To add AND/OR condition filters between columns in Notion:
+ <meta name="google-site-verification" content="u_ZMEtHGKJUXNSzwbf5rco4pRp1yVdr02QrosHkU6Eo" />
+
+To add AND/OR condition filters between columns in Notion:
 
 1. Open your database and select the view you want to filter.
 2. Click on the three dots in the top right corner to access the view settings.
